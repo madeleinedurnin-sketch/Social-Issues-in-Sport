@@ -1,7 +1,7 @@
 # Social Issues in Sport
-Class: KIN 7518
-Date: May 4, 2026
-Group: CursorPros (Madeleine Durnin, Hailee Hernandez, and Kaylee Hooper)
+- Class: KIN 7518
+- Date: May 4, 2026
+- Group: CursorPros (Madeleine Durnin, Hailee Hernandez, and Kaylee Hooper)
 
 # Project 1: Audience Influence on Angel Reese vs Caitlin Clark Rivalry
 Data Set: ARCC_INS and ARCC_YT
