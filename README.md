@@ -16,3 +16,6 @@ Research Question: How do YouTube content creators frame TGL's commercialization
 # [Project 3: Blending of Sports Entertainment and Political Messaging](Project-3/)
 
 Research Question: How do audiences across YouTube, X, and Instagram negotiate and react to the blending of sports entertainment and political messaging in the context of Donald Trump's appearance on Bryson DeChambeau's "Break 50" series?  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***AI Disclosure:*** *Artifical Intelligence was utilized throughout the course of each project. Specific verfication methods and notations of use are listed in the corresponding plan for each project.*
