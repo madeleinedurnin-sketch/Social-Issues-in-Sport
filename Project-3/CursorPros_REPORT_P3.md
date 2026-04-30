@@ -1,4 +1,4 @@
-# Group Report Three
+# Project 3: Group Report
 
 Title of Project: B50 Cross-Platform Audience Analysis  
 Group Name: CursorPros  
