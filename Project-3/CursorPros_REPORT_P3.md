@@ -163,3 +163,11 @@ Because this research analyzes the deeply personal and often inflammatory politi
 Beyond data privacy, a major ethical challenge involved the risk of amplifying the inflammatory rhetoric or partisan vitriol present in the data. The intersection of politics and sport, especially when involving a highly polarizing figure like Donald Trump, naturally elicits heated and sometimes toxic discourse. Generalizing these findings without caution could inadvertently reinforce negative stereotypes about golf enthusiasts or users of specific platforms.
 
 We navigated this challenge by maintaining strict academic objectivity. The analysis was entirely focused on *how* audiences negotiate meaning and boundaries, rather than validating, judging, or giving an unfiltered platform to extreme political sentiments. We also actively acknowledged the risk of researcher bias. Because political comments are super subjective, we took great care during the manual calibration phase to avoid projecting our own political leanings onto the thematic coding, ensuring the final interpretations remained firmly grounded in the data.
+
+## References
+
+Larkin, B. (2025). Identity conflict among politically engaged sport fans: Implications for fan loyalty. *Journal of Sport Management*, *39*(6), 1–17. https://doi.org/10.1123/jsm.2024-0171
+
+Street, J. (2018). What is Donald Trump? Forms of ‘celebrity’ in celebrity politics. *Political Studies Review*, *17*(1), 3–13. https://doi.org/10.1177/1478929918772995
+
+Wang, R., Thimmanayakanapalya, S. S., & Ophir, Y. (2024). The growing partisan politicization of non-political online spaces: A mixed-method analysis of news app reviews on Google Play between 2009 and 2022. *New Media & Society*, *27*(8), 4691–4711. https://doi.org/10.1177/14614448241237765
