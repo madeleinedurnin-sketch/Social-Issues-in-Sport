@@ -26,16 +26,16 @@ There is still limited research on how aggressive and highly individualized riva
 # Data & Materials
 The dataset used for this study consists of user generated comments and video metadata that was pulled from the ARCC ( Angel Reese & Caitlin Clark) dataset. More specifically we used we used data from:  
 
-ARCC\_INS\_COMMENT.xlsx  
-ARCC\_INS\_POST.xlsx  
-ARCC\_YT\_COMMENT.xlsx  
-ARCC\_YT\_VIDEO.xlsx. 
+`ARCC_INS_COMMENT.xlsx`  
+`ARCC_INS_POST.xlsx`  
+`ARCC_YT_COMMENT.xlsx`  
+`ARCC_YT_VIDEO.xlsx` 
 
 To better understand how the rivalry narrative and how it developed over time, the analysis was divided into two different time periods of pre-2023 and 2023-2024. The pre-2023 represents audience discussion before the rivalry became a super well known and common media story, while the 2023-2024 period captures the peak competition between Reese and Clark. This includes their transition into the WNBA. Separating the data into these 2 phases allows us to track how the audience discussion, rivalry narratives and media framing intensified over time.    
 
 The dataset that is required was extensive preprocessing before the analysis. To ensure more accurate keyword tracking the text data was standardized to improve consistency across platforms. To improve the quality of the dataset, spam comments, repetitive bot behavior, and empty text entries were filtered out. The analysis also included unique word and keyword frequency calculations. They were used to identify recurring themes, cross-athlete references  and recurring themes throughout the comment sections.   
 
-This study relies on the ARRCC dataset and because it directly captures both athlete related content and audience reactions across major social media platforms. To be more specific, the project uses ARCC\_INS\_COMMENT.xlsx and ARCC\_INS\_POST.xlsx to analyze the audience discourse and visual framing on instagram. To evaluate Youtube comments, video titles and views and comment counts we used the ARCC\_YT\_COMMENT.xlsx and ARCC\_YT\_VIDEO.xlsx. To have a  more complete understanding of how the rivalry narratives are created, circulated and reinforced online we had to use both Instagram and Youtube.   
+This study relies on the ARRCC dataset and because it directly captures both athlete related content and audience reactions across major social media platforms. To be more specific, the project uses `ARCC_INS_COMMENT.xlsx` and `ARCC_INS_POST.xlsx` to analyze the audience discourse and visual framing on instagram. To evaluate Youtube comments, video titles and views and comment counts we used the `ARCC_YT_COMMENT.xlsx` and `ARCC_YT_VIDEO.xlsx`. To have a  more complete understanding of how the rivalry narratives are created, circulated and reinforced online we had to use both Instagram and Youtube.   
 
 The overall dataset spans from 2017 through 2024, this allows for longitudinal analysis of how the Clark and Reese rivalry evolved from their collegiate career into their highly publicized transition to professional basketball. The timeline was intentionally divided  into “ Pre-2023” and “2023-2024”. The phases were to compare how audience discussion changed once the rivalry became a dominant subject to the media. During the cleaning process, the datasets were refined by removing spam-like comments and managing empty strings and also standardizing text for more accurate keyword analysis. By comparing audience comment trends with youtube engagement metrics like video views and interaction levels we know that additional attention was given to clickbait and engagement driven dynamics.   
 
