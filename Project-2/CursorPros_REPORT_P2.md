@@ -1,9 +1,7 @@
 # Project 2: Group Report
 
-Title of Project: The Legitimacy of the TGL League
-
-Group Name: CursorPros
-
+Title of Project: The Legitimacy of the TGL League  
+Group Name: CursorPros  
 Members: Hailee Hernandez, Madeleine Durnin, Kaylee Hooper
 
 ---
