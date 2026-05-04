@@ -1,4 +1,4 @@
-#Project 2: Group Report
+# Project 2: Group Report
 
 Title of Project: The Legitimacy of the TGL League
 Group Name: CursorPros
@@ -8,7 +8,7 @@ Members: Hailee Hernandez, Madeleine Durnin, Kaylee Hooper
 
 
 
-##Introduction
+## Introduction
 
 As technology becomes to take centerstage in most aspects of human life, it has begun to creep into the professional sport sector as sports are often at the forefront of human innovation and evolve alongside societal trends instead of behind them. With these shift in trends and fan appetite, professional sport is increasingly shaped by commercialization, digital media logic, and entertainment-centered product design. As leagues compete for fragmented attention, many organizations now package sport less as a traditional contest and more as a media event optimized for visibility, sponsorship, and short-form engagement to counteract the negative results of a perceived slower pace or poor fan engagement. Golf is not exception to this norm as the industry has experienced a potential decline in viewership and engagement investors and sport managers have been forced to invent ways to counteract these negative trends. Tomorrow’s Golf League (TGL) provides a clear case of this shift. Rather than reproducing the conventions of outdoor tournament golf, TGL emphasizes a technology-mediated, indoor, high-production format intended to reach contemporary audiences through spectacle, accessibility, and broadcast appeal. As a result, TGL is not only a competitive product as a professional sports league but also a highly commercialized media product promoted in online spaces where creators and audiences actively shape how the league is understood.
 
@@ -16,7 +16,7 @@ While the technology driven model and online visibility of TGL creates a variety
 
 
 
-##Related Literature
+## Related Literature
 
 Although the technology utilized by the TGL is new within the professional golf industry, the concepts of commercialization, authenticity, legitimacy, and technology driven fan opinions are not new within sport discourse. The following selections of related literature help gain a deeper understanding of the overall topic and connect the issue within the TGL sphere to larger sport discourse.
 
@@ -40,7 +40,7 @@ Much of the current commercialization-authenticity scholarship has concentrated 
 
 
 
-##Data and Materials
+## Data and Materials
 
 This project utilized the two provided TGL datasets to examine both creator framing and audience discourse as it pertained to the central research question. The primary dataset for creator framing is TGL\_VIDEO.xlsx (n = 355), which includes textual fields such as video title, description, summary, and transcript-style text. The primary dataset for audience discourse is TGL\_COMMENT.xlsx (n = 6,102), which provides direct access to YouTube comment language and reaction patterns. Because the research question focuses on response to TGL's technology-driven entertainment model, a model-specific comment subset (n = 695) is used for the core acceptance/resistance/ambivalence breakdown. This subset isolates comments explicitly discussing the format rather than all incidental conversation.
 
@@ -52,7 +52,7 @@ Additional validation steps included repeated spot checks of coded excerpts agai
 
 
 
-##Analytical Approach and Justification
+## Analytical Approach and Justification
 
 The present analysis uses three core constructs developed within the initial project plan. The first concept is legitimacy and whether TGL is framed as a valid form of golf competition. The second is technology which pertains to references to simulator, virtual play, screen-based performance, indoor stadium design, and innovation. The last concept is commercialization which includes references to business logic, media value, entertainment orientation, sponsorship, and growth. Each of these concepts relates to the present research questions and allows for a transparent bridge between theory and measurement.
 
@@ -65,7 +65,7 @@ The third approach adds contextual checks by comparing coded discourse patterns 
 A keyword-guided, rule-based strategy is appropriate for this project for three reasons. First, it is conceptually aligned with the research question because each construct (i.e. commercialization, technology, legitimacy stance) is explicitly operationalized before analysis. Second, it supports reproducibility by making coding criteria transparent and auditable across creator and audience datasets. Third, it fits the assignment scope by balancing analytical depth with methodological clarity. This design prioritizes construct validity and procedural clarity over model complexity. For a course-based social issues project, that tradeoff is appropriate: readers can clearly see how constructs were defined, how coding decisions were applied, and how conclusions follow from reported distributions. The three approaches are intentionally complementary, moving from creator framing, to audience interpretation, to visibility context. The present analytical approach intentionally avoids overclaiming. It does not infer population-level fan sentiment, does not treat engagement metrics as pure support signals, and does not claim to capture all rhetorical nuance in comments. Instead, it provides a structured map of legitimacy-related discourse under clearly stated assumptions and constraints.
 
 
-##Results
+## Results
 
 Across 355 analyzed videos, creator framing strongly emphasizes commercialization and technology. Commercialization-related language appears in 313 videos, or 88.2% of the sample. Technology framing appears in 278 videos, or 78.3%. The two frames co-occur in 243 videos (68.5%). These values indicate that creator narratives are not split between separate themes; they frequently integrate technology and market logic as a unified story about what TGL is and why it matters.
 
@@ -74,7 +74,7 @@ Among model-specific comments (n = 695), audience discourse is distributed acros
 When taken together, results show a framing-reception asymmetry. Creators are comparatively unified in portraying TGL as an innovation-commercialization package, while audience responses remain fragmented. This implies that strong promotional coherence does not automatically produce legitimacy consensus among viewers. In this dataset, legitimacy is actively negotiated rather than settled.
 
 
-##Interpretation and Discussion
+## Interpretation and Discussion
 
 The evidence indicates that YouTube creators frame TGL in strongly commercial and technological terms, often presenting innovation and entertainment value as central features of the league's identity. Audience discourse, however, reflects a mixed legitimacy response. Some viewers adopt future-oriented acceptance language, others resist through authenticity claims, and a meaningful portion remains ambivalent or noncommittal. Accordingly, the research question is answered in two parts as creator framing is relatively coherent and modernization-oriented, while audience reception is contested and socially divided around what counts as legitimate golf. This pattern directly matches the literature framework in as described in the related literature section as it is demonstrated that commercialization is interpreted by fans through identity, attitudes, emotion, and behavior rather than through a single uniform response.
 
@@ -87,7 +87,7 @@ The creator-audience gap highlights a broader social issue of legitimacy in cont
 For leagues and media partners, the results suggest that innovation communication should include explicit legitimacy bridges to tradition, not only novelty framing. Claims about speed, excitement, and technology may attract attention, but resistance may persist if audiences interpret these features as displacing the core meaning derived from the sport. For athletes and brands, participation in new formats involves symbolic positioning as well as performance. Stakeholders may need to articulate how new products preserve competitive integrity while evolving delivery. For researchers, TGL illustrates how legitimacy disputes can serve as early indicators of whether innovation-first formats will stabilize culturally or remain niche spectacles. Overall, this case supports a key argument in social issues in sport that commercialization and technological change do not simply modernize sport, they reconfigure who gets to define authenticity and on what terms.
 
 
-##Ethical Reflections and Limitations
+## Ethical Reflections and Limitations
 
 The project plan for this study commits to treating YouTube video and comment data as publicly available yet still ethically sensitive. People who post may not expect their words to be used in academic analysis, which creates a risk of identification through usernames, profile-linked details, or lengthy direct quotation. In line with that sentiment, this report favors anonymization and paraphrase in any illustrative use of audience language and avoids unnecessary identifiable information.
 
@@ -98,7 +98,7 @@ Bias and reflexivity are also considered within the ethical scope. Selection and
 Interpretation of findings is bounded by limitations identified within the initial research plan as consideration of those factors shaped how data was examined. First, YouTube does not stand in for the full audience of TGL. Commenters are a self-selected subset, and comment sections often attract more opinionated participation, which can make discourse look more polarized than attitudes across all consumers of the sport. Claims in this report therefore describe patterns in this corpus and platform context, not universal public opinion. Second, comments are easy to misread when context is thin. Jokes, irony, and sarcasm are difficult for automated or rule-based coding to capture reliably, so some utterances may be sorted into the wrong category or missed entirely. That constraint is especially relevant given the use of dictionary-guided and AI-assisted processing utilized in this project as outlined by the project guidelines. Third, engagement signals such as likes reflect visibility and interaction, not a clean measure of support, agreement, or legitimacy. A video or thread with high engagement may concentrate both praise and criticism, so engagement cannot be read as endorsement of TGL or of any single framing. Where subgroup comparisons rely on video metadata, missing or uneven fields further narrow how far those patterns can be generalized. These limitations do not invalidate the descriptive patterns reported here, but they define the scope within which those patterns should be read, as structured evidence about creator framing and audience legitimacy discourse on YouTube for this dataset, not as a definitive census of fan belief.
 
 
-##References
+## References
 
 Cottingham, M. D. (2012). Interaction ritual theory and sports fans: Emotion, symbols, and solidarity. *Sociology of Sport Journal, 29*(2), 168-185. [https://doi.org/10.1123/ssj.29.2.168](https://doi.org/10.1123/ssj.29.2.168)
 
