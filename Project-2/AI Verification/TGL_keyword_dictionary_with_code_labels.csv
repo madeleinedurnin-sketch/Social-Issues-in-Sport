@@ -1,0 +1,31 @@
+﻿concept,keyword,variants,polarity,code_label,rationale
+Legitimacy (overall),innovation/technology,innovation; innovative; technology; tech; simulator,ambivalent,LEGIT_AMB,Frames TGL as progress or as over-technologized sport.
+Legitimacy (overall),future of golf,future of golf; future,legitimizing,LEGIT_POS,Positions TGL as a viable next phase for professional golf.
+Legitimacy (overall),tradition,tradition; traditional,ambivalent,LEGIT_AMB,Used to defend legacy standards or critique TGL departure from norms.
+Legitimacy (overall),seriousness,serious; joke,ambivalent,LEGIT_AMB,Signals whether TGL is treated as credible competition versus spectacle.
+Legitimacy (overall),real golf,real golf; actual golf; true golf,legitimizing,LEGIT_POS,Direct authenticity marker indicating acceptance as true golf.
+Legitimacy (overall),resistance,resist; resistance; hate; trash,delegitimizing,LEGIT_NEG,Captures explicit rejection and negative evaluations of TGL.
+Legitimacy (overall),entertainment,entertainment; entertaining,ambivalent,LEGIT_AMB,Can support appeal while also implying reduced sport legitimacy.
+Legitimacy (overall),gimmick,gimmick; gimmicky,delegitimizing,LEGIT_NEG,Frames TGL as superficial rather than authentic competition.
+Legitimacy (overall),not real,not real; fake golf,delegitimizing,LEGIT_NEG,Directly denies authenticity as legitimate golf.
+Legitimacy (overall),commercialization,commercialization; commercialized; commercialisation; money grab; cash grab; profit,ambivalent,LEGIT_AMB,Signals business motives that may validate viability or provoke skepticism.
+Technology legitimacy,simulator,simulator; virtual; simulated,ambivalent,LEGIT_AMB,Core technological feature used to evaluate realism and fairness.
+Technology legitimacy,screen graphics,screen; graphics; digital,ambivalent,LEGIT_AMB,Media-tech cues that influence perceptions of authenticity.
+Technology legitimacy,technology,technology; tech,ambivalent,LEGIT_AMB,Direct references to TGL’s technology-driven identity.
+Technology legitimacy,future of golf,future of golf; future,legitimizing,LEGIT_POS,Links technology adoption to long-term relevance.
+Technology legitimacy,innovation,innovation; innovative,legitimizing,LEGIT_POS,Positive framing of novelty and modernization.
+Technology legitimacy,tradition,tradition; traditional,delegitimizing,LEGIT_NEG,Used to challenge tech-heavy format against legacy standards.
+Technology legitimacy,real golf,real golf; actual golf; true golf,legitimizing,LEGIT_POS,Affirms technological format still counts as authentic golf.
+Technology legitimacy,entertainment,entertainment; entertaining,ambivalent,LEGIT_AMB,May indicate fan-friendly design or lack of competitive legitimacy.
+Technology legitimacy,fan experience,fan experience; viewer experience; immersive; interactive,legitimizing,LEGIT_POS,Audience-centered benefits can normalize new format legitimacy.
+Technology legitimacy,not real,not real; fake golf,delegitimizing,LEGIT_NEG,Rejects technological format as inauthentic sport.
+Commercialization,future of golf,future of golf; future,legitimizing,LEGIT_POS,Commercial expansion framed as strategic modernization.
+Commercialization,investor,investor; investors; investment,legitimizing,LEGIT_POS,Financial backing signals perceived market viability.
+Commercialization,business model,business model; business; revenue; monetization; monetize,legitimizing,LEGIT_POS,Direct indicator of sustainable commercial structure.
+Commercialization,entertainment,entertainment; entertaining,ambivalent,LEGIT_AMB,Entertainment framing can support growth but invite authenticity concerns.
+Commercialization,views and likes,views; likes; engagement,legitimizing,LEGIT_POS,Platform engagement used as evidence of public traction.
+Commercialization,sponsor,sponsor; sponsors; sponsorship; advertising; ad,legitimizing,LEGIT_POS,Sponsorship discourse reflects commercial integration and support.
+Commercialization,league growth,grow the game; growing the game; growth; expand; expansion,legitimizing,LEGIT_POS,Frames commercialization as market and audience expansion.
+Commercialization,legitimacy,legitimacy; legitimate; legit,ambivalent,LEGIT_AMB,Explicit evaluative language linking commerce to acceptance.
+Commercialization,money grab,money grab; cash grab; profit driven; profit,delegitimizing,LEGIT_NEG,Critiques commercial motive as exploitative.
+Commercialization,commercialization,commercialization; commercialized; commercialisation,ambivalent,LEGIT_AMB,Names marketization process as either strategic or excessive.
